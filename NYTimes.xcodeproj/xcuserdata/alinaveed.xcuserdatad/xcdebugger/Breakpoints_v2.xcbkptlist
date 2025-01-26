@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F30B3756-04D5-431D-8A1A-D2EBEE6E0021"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D8A6FA0-B2D3-4AEB-8005-8E153AC68416"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYTimes/NetworkManager/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getData(endpoint:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D8A6FA0-B2D3-4AEB-8005-8E153AC68416 - ecbabb37da222273"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in NYTimes.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: NYTimes.APIBuilder, type: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, NYTimes.NetworkError&gt;"
+                  moduleName = "NYTimes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinaveed/Documents/LearnSwiftUI/NYTimes/NYTimes/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "5D8A6FA0-B2D3-4AEB-8005-8E153AC68416 - ecbabb37da222273"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in NYTimes.NetworkManager.getData&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endpoint: NYTimes.APIBuilder, type: &#x3c4;_0_0.Type) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0, NYTimes.NetworkError&gt;"
+                  moduleName = "NYTimes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alinaveed/Documents/LearnSwiftUI/NYTimes/NYTimes/NetworkManager/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "265">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
